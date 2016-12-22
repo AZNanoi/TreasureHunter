@@ -1,4 +1,4 @@
-# TreasureHunter
+# TreasureHunter (Unity3D Game)
 
 Ah Zau Marang (am223es@student.lnu.se)
 
